@@ -3,7 +3,7 @@ import { ColorExtractor } from 'react-color-extractor'
 import SearchInput from '../components/SearchInput'
 
 const Home = () => {
-  const dickbuttImage = 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdabbfe7-bbc0-4c1e-a8df-210fc16c0029/daje1y8-bc05f401-57a9-4859-affd-c45f6e0c4a6d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkYWJiZmU3LWJiYzAtNGMxZS1hOGRmLTIxMGZjMTZjMDAyOVwvZGFqZTF5OC1iYzA1ZjQwMS01N2E5LTQ4NTktYWZmZC1jNDVmNmUwYzRhNmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bc9gB6yvjMjn-lQ_HHOTYtsXOiySF8-JxZZZW8PMvqs'
+  const dickbuttImage = 'https://i.kym-cdn.com/entries/icons/mobile/000/001/030/DButt.jpg'
   const [colors, setColors] = useState([])
   const [urlInput, setUrlInput] = useState('');
 
