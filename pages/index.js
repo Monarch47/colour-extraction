@@ -20,7 +20,7 @@ const Home = () => {
             width: 100,
             height: 100,
           }}
-          className='grid grid-rows-2 items-center justify-center '>
+          className='grid grid-rows-2 items-center justify-center border-2 boder-black'>
           {color}
         </div>
       )
