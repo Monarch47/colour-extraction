@@ -15,8 +15,9 @@ const Home = () => {
           key={index}
           style={{
             backgroundColor: color,
+            borderBlockColor: 'black',
             width: 100,
-            height: 100
+            height: 100,
           }}
           className='grid grid-rows-2 items-center justify-center '>
           {color}
